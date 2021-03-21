@@ -1,0 +1,7 @@
+Z:\PROGRAMMING\Codes from VS\Hodilka\Hodilka\bin\Debug\Hodilka.exe.config
+Z:\PROGRAMMING\Codes from VS\Hodilka\Hodilka\bin\Debug\Hodilka.exe
+Z:\PROGRAMMING\Codes from VS\Hodilka\Hodilka\bin\Debug\Hodilka.pdb
+Z:\PROGRAMMING\Codes from VS\Hodilka\Hodilka\obj\Debug\Hodilka.csprojAssemblyReference.cache
+Z:\PROGRAMMING\Codes from VS\Hodilka\Hodilka\obj\Debug\Hodilka.csproj.CoreCompileInputs.cache
+Z:\PROGRAMMING\Codes from VS\Hodilka\Hodilka\obj\Debug\Hodilka.exe
+Z:\PROGRAMMING\Codes from VS\Hodilka\Hodilka\obj\Debug\Hodilka.pdb
