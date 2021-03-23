@@ -226,10 +226,10 @@ namespace hodilka
                 if (action.Key == ConsoleKey.P)
                 {
                     
-                    if (food == 1)
+                   if (food >= 1)
                         Message($"У вас есть {food} яблок\nВы сьели ЯБЛОКО"); hp += 20; food--;
          
-                    if (food >= 0)
+                    if (food <= 0)
                         { 
                         Warning("У вас нет яблок!");
                         }
